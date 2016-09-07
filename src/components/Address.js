@@ -49,12 +49,4 @@ export class AddressList extends React.Component {
   }
 }
 
-
-
-
-// const Address = ({}) => {
-
-// }
-
 export default AddressList
-
